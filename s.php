@@ -13,7 +13,7 @@ if($conn->connect_error){
 
 }
 
-echo " connection successful";
+echo " connection very successful";
 
 
 
